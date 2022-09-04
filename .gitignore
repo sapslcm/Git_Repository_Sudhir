@@ -5,3 +5,6 @@ Operations.csv
 list_response.csv
 API_Counts.csv
 Git Commands.xlsx
+logs/
+dir/
+.ipynb_checkpoints/
